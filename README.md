@@ -1,1 +1,1 @@
-This is being used for demo purposes to demo effectivness of CylanceEndpoint
+This is being used for demo purposes, to illustrate the effectiveness of CylanceENDPOINT.
